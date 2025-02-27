@@ -1,4 +1,3 @@
-![15_starry_night_comparison](https://github.com/user-attachments/assets/1cb7222c-ee19-4694-8996-08ffc765c8ba)
 This is a powerful framework for generating variations of images with recurring patterns and structures while preserving their essential characteristics. It's especially effective for pattern-rich images like carpet designs, wallpapers, and tileable textures.
 
 ## 🌟 Features
@@ -84,23 +83,10 @@ def adain_latent(feat, cond_feat, eps=1e-5, detail_preservation=0.65):
 
 
 
-## 📝 Citation
-
-If you use this code in your research, please cite:
-
-```
-@article{rival2023,
-  title={RIVAL: Recurring Instance Variation and Adaptive Learning for Pattern Generation},
-  author={Author, A. and Author, B.},
-  journal={ArXiv},
-  year={2023}
-}
-```
+## 📝 Reference
+https://arxiv.org/pdf/2305.18729
 
 ## ⚖️ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgements
-
-This implementation builds on the foundational work of Stable Diffusion and incorporates insights from several recent papers on diffusion models and pattern generation.
