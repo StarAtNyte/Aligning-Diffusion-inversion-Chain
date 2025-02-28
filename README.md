@@ -87,7 +87,4 @@ def adain_latent(feat, cond_feat, eps=1e-5, detail_preservation=0.65):
 Real-World Image Variation by Aligning Diffusion Inversion Chain
 https://arxiv.org/pdf/2305.18729
 
-## ⚖️ License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
